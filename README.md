@@ -1,4 +1,6 @@
 # css-buttons
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 buttons created in html/css
 This GitHub repository contains a collection of interactive buttons created using HTML and CSS. These buttons are designed to enhance the user experience on your website by providing engaging and responsive interactions. Whether you're building a personal blog, a portfolio site, or an e-commerce platform, these buttons can add a touch of interactivity that captures your users' attention.
 
