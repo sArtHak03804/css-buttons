@@ -1,16 +1,9 @@
-# css-buttons
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-# My Awesome Project
-
 # My Awesome Project
 
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
 [![GitHub stars](https://img.shields.io/github/stars/sArtHak03804/css-buttons?style=social)](https://github.com/sArtHak03804/css-buttons/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/sArtHak03804/css-buttons?style=social)](https://github.com/sArtHak038)
-
-
 
 
 buttons created in html/css
