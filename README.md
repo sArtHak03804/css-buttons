@@ -1,6 +1,18 @@
 # css-buttons
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+# My Awesome Project
+
+# My Awesome Project
+
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
+
+[![GitHub stars](https://img.shields.io/github/stars/sArtHak03804/css-buttons?style=social)](https://github.com/sArtHak03804/css-buttons/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sArtHak03804/css-buttons?style=social)](https://github.com/sArtHak038)
+
+
+
+
 buttons created in html/css
 This GitHub repository contains a collection of interactive buttons created using HTML and CSS. These buttons are designed to enhance the user experience on your website by providing engaging and responsive interactions. Whether you're building a personal blog, a portfolio site, or an e-commerce platform, these buttons can add a touch of interactivity that captures your users' attention.
 
